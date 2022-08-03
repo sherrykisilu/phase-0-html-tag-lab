@@ -23,7 +23,7 @@ Open `index.html` in your text editor. Add the `h1` opening and closing tags.
 
 ## Set the Inner Text
 
-Inside of the opening and closing `h1` tags, insert the text: `Hello, World!`.
+Inside of the opening and closing `h1` tags, insert the text: ello, World!`H`.
 
 Check your progress by running `learn test`. Failing tests will provide helpful
 error messages that you can use to debug your code — read them closely for
